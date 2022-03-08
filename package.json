@@ -1,0 +1,23 @@
+{
+  "name": "uchuva",
+  "version": "1.0.0",
+  "description": "CLI to create projects with Starters!",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carlosrojaso/uchuva-cli.git"
+  },
+  "bin": {
+    "uchuva": "src/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/carlosrojaso/uchuva-cli/issues"
+  },
+  "homepage": "https://github.com/carlosrojaso/uchuva-cli#readme"
+}
